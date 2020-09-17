@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
 I'm currently working on [KScriptEngine](https://github.com/khjxiaogu/KScriptEngine) and [KWebServer](https://github.com/khjxiaogu/KWebServer).  
 I'm currently learning Spring Mybatis Java frameworks.  
 I'm looking to collaborate on some web projects.  
-Fun fact:  
+Fun fact: 
+<img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
 - Feel free to use any of my project, but I would be happier if you mention me in your project.  
 - I'd like to make music project more than others.  
 - I'm glad to learn new technologies.  
