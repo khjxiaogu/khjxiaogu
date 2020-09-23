@@ -25,7 +25,7 @@ I'm looking to collaborate on some web projects.
 - As you see, I'm mainly a game developer.  
 - I think python's syntax is terrible so I'm not going to learn it by now.  
 ## my profile
-<img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
+<img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical&layout=compact"></img>
 I can program in:  
 - Java
 - C/C++
