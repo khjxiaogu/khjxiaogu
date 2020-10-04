@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on [KScriptEngine](https://github.com/khjxiaogu/KScriptEngine) and [KWebServer](https://github.com/khjxiaogu/KWebServer).  
-I'm currently learning Spring Mybatis Java frameworks.  
-I'm looking to collaborate on some web projects.  
+I'm currently 🔭working on [KScriptEngine](https://github.com/khjxiaogu/KScriptEngine) and [KWebServer](https://github.com/khjxiaogu/KWebServer).  
+I'm currently 🌱learning Spring Mybatis Java frameworks.  
+I'm looking to 👯collaborate on some web projects.  
 ## Fun facts  
 <img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
 - Feel free to use any of my project, but I would be happier if you mention me in your project.  
@@ -31,4 +31,4 @@ I can program in:
 - C/C++
 - C#
 - Javascript+html+css
-
+# Java是世界上最好的语言，不服憋着
