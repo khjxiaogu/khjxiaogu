@@ -23,7 +23,8 @@ I'm looking to 👯collaborate on some web projects.
 - I'd like to make music project more than others.  
 - I'm glad to learn new technologies.  
 - As you see, I'm mainly a game developer.  
-- I think python's syntax is terrible so I'm not going to learn it by now.  
+- I think python's syntax is terrible so I'm not going to learn it by now.   
+___Email:[khjxiaogu@qq.com](mailto:khjxiaogu@qq.com)___  
 ## my profile
 <img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical&layout=compact"></img>
 I can program in:  
