@@ -32,3 +32,6 @@ I can program in:
 - C#
 - Javascript+html+css
 # Java是世界上最好的语言，不服憋着
+一个头发还在的Java程序员，喜欢整活。   
+~曾经是独立游戏开发者。~  
+正在进行Java后端开发工作。  
