@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[trophy](https://github-profile-trophy.vercel.app/?username=khjxiaogu)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=khjxiaogu)
 I'm currently 🔭working on [KScriptEngine](https://github.com/khjxiaogu/KScriptEngine) and [KWebServer](https://github.com/khjxiaogu/KWebServer).  
 I'm currently 🌱learning Spring Mybatis Java frameworks.  
 I'm looking to 👯collaborate on some web projects.  
