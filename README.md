@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=khjxiaogu)  
-I'm currently 🔭working on [KScriptEngine](https://github.com/khjxiaogu/KScriptEngine) and [KWebServer](https://github.com/khjxiaogu/KWebServer).  
-I'm currently 🌱learning Spring Mybatis Java frameworks.  
-I'm looking to 👯collaborate on some web projects.  
+I'm currently 🔭working on Mirai plugins.  
 ## Fun facts  
 <img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
 - Feel free to use any of my project, but I would be happier if you mention me in your project.  
