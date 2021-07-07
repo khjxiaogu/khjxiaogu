@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=khjxiaogu)  
-I'm currently 🔭working on Mirai plugins.  
+I'm currently 🔭working on ScriptEngines.  
 ## Fun facts  
 <img align="right" alt="khjxiaogu github status" src="https://github-readme-stats.vercel.app/api?username=khjxiaogu&show_icons=true&hide_border=true&theme=radical"></img>
 - Feel free to use any of my project, but I would be happier if you mention me in your project.  
